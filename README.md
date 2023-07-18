@@ -8,6 +8,7 @@ This project is a UI/UX clone of the OpenAI website. It aims to replicate the de
 * Usage
 * Contributing
 * License
+
 ## Demo
 A live demo of the project can be found at [GitHub Pages.](https://sreekanth666.github.io/OpenAI-Clone-Project/)
 
